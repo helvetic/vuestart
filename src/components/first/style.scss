@@ -1,0 +1,7 @@
+body{
+  background: #aaa;
+
+  & #app{
+    background: #ddd;
+  }
+}
